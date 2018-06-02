@@ -41,28 +41,7 @@ void setup()
   
 
 
-  ///////////////////////////////////////////////
-  // 1. Disable Coordinator mode
-  ///////////////////////////////////////////////
-
-  /*************************************
-    WARNING: Only XBee ZigBee S2C and
-    XBee ZigBee S2D are able to use
-    this function properly
-  ************************************/
- /* xbeeZB.setCoordinator(DISABLED);
-
-  // check at command flag
-  if (xbeeZB.error_AT == 0)
-  {
-    USB.println(F("1. Coordinator mode disabled"));
-  }
-  else
-  {
-    USB.println(F("1. Error while disabling Coordinator mode"));
-  }
-*/
-
+  
   ///////////////////////////////////////////////
   // 2. Dissociation process
   ///////////////////////////////////////////////
