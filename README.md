@@ -4,6 +4,7 @@ Bu projede amacımız Waspmote v1.2 cihazımız hakkında her şeyi öğrenmek v
 Bununla beraber türkiye'de yeni olan bu cihaza ait türkçe kaynak oluşturmak...
 
 Konular:
+
 waspmote Bağlantı +
 
 xbee konfigürasyonu yapma ++
